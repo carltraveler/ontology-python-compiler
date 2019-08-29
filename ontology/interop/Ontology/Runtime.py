@@ -17,3 +17,11 @@ def GetCurrentBlockHash():
     Returns the current block hash
     """
     pass
+
+
+def OntAssert(cond, msg):
+    """
+    :param cond
+    :param msg
+    """
+    pass
